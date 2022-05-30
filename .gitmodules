@@ -1,0 +1,3 @@
+[submodule "Introdução ao Git e ao GitHub/livro-receitas"]
+	path = Introdução ao Git e ao GitHub/livro-receitas
+	url = https://github.com/renanvallerio/livro-receitas
